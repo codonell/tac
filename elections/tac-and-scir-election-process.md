@@ -105,20 +105,20 @@ About 10 months after the previous cycle, a committee of Election Officials will
 - Announcement of results - Day after the conclusion of the Appointment Period
 - Election of the Chair and Vice Chair - 2 weeks
 
-### 2025 Election Timeline
+### 2026 Election Timeline
 
-**Term starts January 1, 2026.**
+**Term starts January 1, 2027.**
 
 **Community Self-Nomination & Security Community Individual Representative (SCIR) Election Timeline**
 
 | Date | Action |
 | :--- | :--- |
-| September 29 | Self-Nomination and Voter registration period starts. Send call for nominees and eligible voters in email and on Slack.
-| October 22 | Self-Nomination and Voter registration period ends, 11:59 pm PDT
-| October 23 - October 24 | Validation Period of nominee submissions
-| October 27 | Slate of respective nominees and ballot or link to an electronic voting system sent to registered voters.
-| November 9 | The voting period ends at 11:59 pm PDT
-| November 11 | The election winners announced
+| September 28 | Self-Nomination and Voter registration period starts. Send call for nominees and eligible voters in email and on Slack.
+| October 21 | Self-Nomination and Voter registration period ends, 11:59 pm PDT
+| October 22 - October 23 | Validation Period of nominee submissions
+| October 26 | Slate of respective nominees and ballot or link to an electronic voting system sent to registered voters.
+| November 8 | The voting period ends at 11:59 pm PDT
+| November 10 | The election winners announced
 
 **[Community Election Self-Nomination Form](https://docs.google.com/forms/d/e/1FAIpQLScNzK_8bApE7mIvTZpFuP00Lmc6syQkPGe-JYGekp37DSswtQ/viewform)**
 
@@ -128,13 +128,13 @@ About 10 months after the previous cycle, a committee of Election Officials will
 
 | Date | Action |
 | :--- | :--- |
-| November 10 | Call for nominations; notice given to GB Members and include results from the community election.
-| November 16 | End nomination period, 11:59 PM PST.
-| November 17 | The slate of respective nominees and ballot or link to an electronic voting system sent to the governing board primary voting representatives.
-| November 30 | The voting period ends at 11:59 PM PST.
-| December 2 | The GB-appointed TAC representatives announced.
+| November 9 | Call for nominations; notice given to GB Members and include results from the community election.
+| November 15 | End nomination period, 11:59 PM PST.
+| November 16 | The slate of respective nominees and ballot or link to an electronic voting system sent to the governing board primary voting representatives.
+| November 29 | The voting period ends at 11:59 PM PST.
+| December 1 | The GB-appointed TAC representatives announced.
 
- **New members seated: January 1, 2026**
+ **New members seated: January 1, 2027**
 
 
 ## Voter Registration form
